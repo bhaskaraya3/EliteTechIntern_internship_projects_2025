@@ -1,0 +1,19 @@
+# Data handling
+numpy==1.26.5
+pandas==2.1.1
+
+# Visualization
+matplotlib==3.8.1
+seaborn==0.12.3
+
+# Machine learning
+scikit-learn==1.3.3
+joblib==1.3.2
+
+# Text processing / NLP
+nltk==3.9.1
+tqdm==4.66.1
+
+# Jupyter notebook environment
+notebook==7.0.2
+jupyter==2.4.1
